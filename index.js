@@ -9,3 +9,7 @@ function b(){
 function a(){
     alert("aaa")
 }
+
+function c(){
+    return "in pull request 2"
+}
