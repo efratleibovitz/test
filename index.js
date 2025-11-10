@@ -5,3 +5,7 @@ alert("in branch: try-branch-2")
 function b(){
     return 6;
 }
+
+function a(){
+    alert("aaa")
+}
