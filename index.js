@@ -11,5 +11,6 @@ function a(){
 }
 
 function key(){
+    x = "there were some problems in SSh"
     return "SSH public key created"
 }
