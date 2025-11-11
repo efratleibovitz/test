@@ -9,3 +9,7 @@ function b(){
 function a(){
     alert("aaa")
 }
+
+function key(){
+    return "SSH public key created"
+}
